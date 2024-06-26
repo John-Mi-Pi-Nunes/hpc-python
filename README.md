@@ -6,7 +6,7 @@ This lesson is focused on teaching the basics of high-performance computing
 (HPC). There are 4 primary components to this lesson. Each component is
 budgeted half a day's worth of teaching-time, resulting in a two day workshop.
 
-1. UNIX fundamentals
+1. UNIX fundamentals and Windows 11
 2. Working on a cluster
 3. Programming language introduction/review
 4. Introduction to parallel programming
@@ -88,4 +88,4 @@ A couple links to example SWC workshop lessons for reference:
 * [Example Python lesson](
   https://github.com/swcarpentry/python-novice-inflammation)
 * [Example R lesson](https://github.com/swcarpentry/r-novice-gapminder)
-  (uses R Markdown files instead of Markdown)
+  (uses R Markmatias old whashington files instead of Markmatias)
